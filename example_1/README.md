@@ -44,16 +44,16 @@ For experts: Medium
 4. In problems like these, landmarks are a huge help when we have little to no information provided in the photo. A landmark can range from a physical building down to a few trees. In this exercise, we'll make use of the trees and light poles from the photo to give us a start on where to look. 
 
 ![Aerial Telephone View](/example_1/Labeled_Diagram.PNG)
-![Landmark Labels](Labeled Diagram #2.PNG)
+![Landmark Labels](/example_1/Labeled Diagram #2.PNG)
 
 
 5. After scanning the city, you'll see that there is only one section that leads out into a group of trees as seen in the photo... Let's zoom in there. 
 
 6. Luckily, on the first try this seems to be our location in the photo! Referencing the labeled photos with the tweet provided, we are able to match up specific landmarks that allow us to conclude that we have found the correct area
 
-![Aerial Telephone View](Labeled_Diagram.PNG)
-![Landmark Labels](Labeled Diagram #3.PNG)
-![Landmark Labels](Labeled Diagram #4.PNG)
+![Aerial Telephone View](/example_1/Labeled_Diagram.PNG)
+![Landmark Label](/example_1/Labeled Diagram #3.PNG)
+![Landmark Labels](/example_1/Labeled Diagram #4.PNG)
 
 
 
