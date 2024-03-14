@@ -43,7 +43,6 @@ For experts: Medium
 
 4. In problems like these, landmarks are a huge help when we have little to no information provided in the photo. A landmark can range from a physical building down to a few trees. In this exercise, we'll make use of the trees and light poles from the photo to give us a start on where to look. 
 
-![Aerial Telephone View](/example_1/Labeled_Diagram.PNG)
 ![Diagram](/example_1/ld2.PNG)
 
 5. After scanning the city, you'll see that there is only one section that leads out into a group of trees as seen in the photo... Let's zoom in there. 
