@@ -34,10 +34,10 @@ For experts: Medium
 
 1. We are given a tweet that provides information on where the photo is taken. This is enough for us to start! Let's find out more about Kiffa...
 
-2. Google is our friend. A quick search of 'Kiffa country' on Google leads us to a Wiki page that gives tons of interesting information about the country. One particular thing we are interested in is the coordinates provided...
+2. Google is our friend. A quick search of 'Kiffa country' on Google leads us to a Wiki page that gives us tons of interesting information about the country. One particular thing we are interested in is the coordinates provided...
 
 
-3. Coordinates allows us to make use of a power tool used across many industries... Google Earth. Providing the app with Kiffa's coordinates takes us across the globe to an aerial view of the country in interest.
+3. Coordinates allow us to make use of a powerful tool used across many industries... Google Earth. Providing the app with Kiffa's coordinates takes us across the globe to an aerial view of the country in interest.
 
 ![Kiffa Aerial Shot](Kiffa_Google_Maps_Aerial.PNG)
 
