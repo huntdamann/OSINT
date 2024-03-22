@@ -20,6 +20,8 @@ The photo below was shared on social media. It clearly depicts a train station.
 Please answer the following questions:
 
 a) What is the name of the train station seen in the photo? **Flinders Street Railway Station**
+
+
 b) What is the name and height of the tallest structure seen in the photo? **Eureka Tower (297.3 m)**
 
 
@@ -42,7 +44,22 @@ For experts: a) Easy, b) Medium
 
 ![Coordinates](Coordinates_Flinders.PNG)
 
-5.
+5. As with the previous exercise, we can get familiar with the area and scroll around to see the structure of the landscape. Luckily, this area has 3D buildings that give real life scale. We Can clearly see what the tallest building is in the tool, but let's get a closer look to make sure. 
+
+![Front View](Street_View.PNG)
+![Aerial Shot](Flinders_Street_Aerial.PNG)
+
+6. I did a little research on the IBM tower just out of curiosity. I know it isn't the building of interest, but it ended up revealing a pathway to discover what the building was next to it. I stumbled across the Google maps, which gave an aerial shot of the IBM Tower, as well as the tower next to it.
+
+![Google Maps](Google_Maps_View.PNG)
+
+7. Hmmmm... Could Melbourne Tower possibly be the correct one? I compared an aerial shot from Google Earth to ensure that this was the tallest tower in the previous photos, and indeed it was! I did some more google searching on the "Melbourne Skydeck", and came across some revealing information...
+
+![Coordinates](Google_Earth_View.PNG)
+
+8. Well would you look at that, as simple goolge search of the Melbourne Tower gave us the name as well as its height in meters. This is the answer to **Part B**
+
+![Coordinates](Info_Tower.PNG)
 
 
 
