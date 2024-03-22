@@ -44,7 +44,7 @@ For experts: a) Easy, b) Medium
 
 ![Coordinates](Coordinates_Flinders.PNG)
 
-5. As with the previous exercise, we can get familiar with the area and scroll around to see the structure of the landscape. Luckily, this area has 3D buildings that give real life scale. We Can clearly see what the tallest building is in the tool, but let's get a closer look to make sure. 
+5. As with the previous exercise, we can get familiar with the area and scroll around to see the structure of the landscape. Luckily, this area has 3D buildings that give real life scale. We can clearly see what the tallest building is in the tool, but let's get a closer look to make sure. 
 
 ![Front View](Street_View.PNG)
 ![Aerial Shot](Flinders_Street_Aerial.PNG)
@@ -57,7 +57,7 @@ For experts: a) Easy, b) Medium
 
 ![Coordinates](Google_Earth_View.PNG)
 
-8. Well would you look at that, as simple goolge search of the Melbourne Tower gave us the name as well as its height in meters. This is the answer to **Part B**
+8. Well would you look at that, a simple goolge search of the Melbourne Tower gave us the name as well as its height in meters. This is the answer to **Part B**
 
 ![Coordinates](Info_Tower.PNG)
 
